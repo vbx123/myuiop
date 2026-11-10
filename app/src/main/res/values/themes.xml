@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_bg">#0F1418</color>
+    <style name="Theme.SubtitleStudio" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">#0F1418</item>
+        <item name="android:statusBarColor">#0F1418</item>
+        <item name="android:navigationBarColor">#0F1418</item>
+    </style>
+</resources>
